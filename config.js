@@ -18,13 +18,13 @@ module.exports = {
      */
     ownername: process.env.Owner_Name || "Truth シ",
     ownernumber: process.env.Owner_Number || "2318115278083",
-    instagramId: process.env.Insta || "3.69_pika",
+    instagramId: process.env.Insta || "only1myren",
 
     /**
      * other details and parameters
      */
     author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
-    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
+    packname: process.env.PackName || "Truth シ 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
